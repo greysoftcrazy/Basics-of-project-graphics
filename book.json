@@ -1,0 +1,24 @@
+{
+    "gitbook": "3.2.2",
+    "variables": {
+        "GPOUYTK": "ГПОУ \"Юргинский технологический колледж \""
+    },
+    "plugins": [
+        "-sharing",
+        "splitter",
+        "mcqx",
+        "custom-favicon",
+        "sectionx"
+    ],
+    "styles": {
+        "website": "styles/website.css"
+    },
+    "title": "Практикум Основы проектной графики",
+    "author": "Greysoft",
+    "description": "Решетка В.В.",
+    "language": "ru",
+    "root": ".",
+    "pluginsConfig": {
+        "favicon": "images/favicon.ico"
+    }
+}
