@@ -13,10 +13,7 @@
 
 Интернет-ресурсы
 
-1.  Антураж и стаффаж [Электронный ресурс]. – Режим доступа: RESTITUTOR [http://macrobocus.narod.ru›archigraphice/anturazh_i](http://macrobocus.narod.ru›archigraphice/anturazh_i), свободный. – Загл.с экрана.
-2.  Графика. [Электронный ресурс]. – Режим доступа: [art.ioso.ru›wiki/index.php/Графика](http://art.ioso.ru›wiki/index.php/Графика), свободный. – Загл. с экрана.
-3.  Коллаж в оформлении. Плакаты [Электронный ресурс]. – Режим доступа: [http://coll.spb.ru/use/Коллаж в оформлении. Плакаты/](http://art.ioso.ru›wiki/index.php/Графика), свободный. – Загл.с экрана.
-4.  Проектная графика. Определение. [Электронный ресурс]. – Режим доступа: [http://otvet.mail.ru/ Проектная графика. Определение](http://otvet.mail.ru/Проектная графика. Определение), свободный. – Загл.с экрана.
-5.  Техника акварельной и тушевой отмывки [Электронный ресурс]. – Режим доступа: [http://best-real.com.ua/akvarelnoj/ushevoj-otmyvki.html sava.jimdo.com](http://best-real.com.ua›…akvarelnoj…tushevoj-otmyvki.html sava.jimdo.com), свободный. – Загл. с экрана.
-6.  Урок 3. Собираем идеи, вновь учимся рисовать. [Электронный ресурс]. – Режим доступа: [http://otvet.mail.ru/Урок 3. Собираем идеи, вновь учимся рисовать](http://otvet.mail.ru/Урок 3. Собираем идеи, вновь учимся рисовать), свободный. – Загл.с экрана.
-7.  Фактуры. Текстуры. Изображение строительных материалов. [Электронный ресурс]. – Режим доступа: [ad-umbro.com](http://ad-umbro.com/)› / Фактуры. Текстуры. Изображение строительных материалов, свободный. – Загл.с экрана.
+1. Золотое сечение - что это такое? Числа Фибоначчи… [Электронный ресурс]. – Режим доступа: [http://alenakraeva.com/new-digital-world/zolotoe-sechenie-chto-eto-takoe-chisla-fibonachchi-eto](http://alenakraeva.com/new-digital-world/zolotoe-sechenie-chto-eto-takoe-chisla-fibonachchi-eto/) / Золотое сечение - что это такое? Числа Фибоначчи… /, свободный. – Загл. с экрана.
+2. Презентация по архитектурной графике  «Антураж»  [Электронный ресурс]. – Режим доступа: [https://infourok.ru/prezentaciya-po-arhitekturnoy-grafike-anturazh-i-staffazh-1151327.html](https://infourok.ru/prezentaciya-po-arhitekturnoy-grafike-anturazh-i-staffazh-1151327.html) / Презентация по архитектурной графике  «Антураж»/, свободный. – Загл. с экрана.
+3. Тема 2.1 Основы проектной графики. [Электронный ресурс]. – Режим доступа: [https://lektsii.org/14-33993.html](https://lektsii.org/14-33993.html) / Тема 2.1 Основы проектной графики./, свободный. – Загл. с экрана.
+4. Техники отмывки [Электронный ресурс]. – Режим доступа: [https://studopedia.su/13_67085_tehnika-otmivki.html](https://studopedia.su/13_67085_tehnika-otmivki.html) / Техники отмывки/, свободный. – Загл. с экрана.
