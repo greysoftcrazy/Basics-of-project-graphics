@@ -122,3 +122,5 @@
 {%o3%} макет
 {%o4%} чертеж
 {%endmcq%}
+
+{% include "./footer.md" %}

@@ -17,3 +17,6 @@
 2. Презентация по архитектурной графике  «Антураж»  [Электронный ресурс]. – Режим доступа: [https://infourok.ru/prezentaciya-po-arhitekturnoy-grafike-anturazh-i-staffazh-1151327.html](https://infourok.ru/prezentaciya-po-arhitekturnoy-grafike-anturazh-i-staffazh-1151327.html) / Презентация по архитектурной графике  «Антураж»/, свободный. – Загл. с экрана.
 3. Тема 2.1 Основы проектной графики. [Электронный ресурс]. – Режим доступа: [https://lektsii.org/14-33993.html](https://lektsii.org/14-33993.html) / Тема 2.1 Основы проектной графики./, свободный. – Загл. с экрана.
 4. Техники отмывки [Электронный ресурс]. – Режим доступа: [https://studopedia.su/13_67085_tehnika-otmivki.html](https://studopedia.su/13_67085_tehnika-otmivki.html) / Техники отмывки/, свободный. – Загл. с экрана.
+
+
+{% include "./footer.md" %}

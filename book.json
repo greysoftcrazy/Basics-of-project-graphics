@@ -8,7 +8,8 @@
         "splitter",
         "mcqx",
         "custom-favicon",
-        "sectionx"
+        "sectionx",
+        "insert-logo"
     ],
     "styles": {
         "website": "styles/website.css"
@@ -19,6 +20,9 @@
     "language": "ru",
     "root": ".",
     "pluginsConfig": {
-        "favicon": "images/favicon.ico"
+        "favicon": "images/favicon.ico",
+        "insert-logo": {
+            "url": "images/logo.png"
+        }
     }
 }
